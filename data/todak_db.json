@@ -1,0 +1,75 @@
+{
+  "notes": [
+    {
+      "id": "default-note-1",
+      "title": "삼수를 완주한 선배가 독서실 책상에 붙여두었던 글",
+      "content": "내가 보낸 이 고독한 1년은 결코 실패의 반복이 아니야. 내 평생에서 가장 치열하게 나 자신을 마주하고, 나를 믿어주는 법을 배우는 가장 귀한 시간이야.",
+      "date": "2026.10",
+      "author": "N수 완주 선배",
+      "sourceType": "quote",
+      "createdAt": 1791182395513
+    },
+    {
+      "id": "default-note-2",
+      "title": "모의고사 성적이 흔들릴 때 기억할 사실",
+      "content": "성적이 떨어진 건 네 가치가 떨어진 게 아니야. 수능 시험장 가기 전에 보완해야 할 구멍을 미리 발견한 행운일 뿐이야. 담담하게 오답 정리하고 푹 자자.",
+      "date": "2026.10",
+      "author": "마음챙김 센터",
+      "sourceType": "quote",
+      "createdAt": 1791268795513
+    },
+    {
+      "id": "default-note-3",
+      "title": "친구들이 대학 캠퍼스를 누빌 때 흔들리는 마음에게",
+      "content": "남들의 시계에 내 인생을 맞출 필요 없어. 각자의 봄은 피어나는 시기가 다를 뿐이야. 너의 계절은 조금 늦게 오더라도 그 어떤 계절보다 눈부실 거야.",
+      "date": "2026.10",
+      "author": "토닥",
+      "sourceType": "quote",
+      "createdAt": 1791311995513
+    }
+  ],
+  "chats": {
+    "warm_senior": [
+      {
+        "id": "init-warm_senior",
+        "role": "assistant",
+        "content": "안녕! 오늘도 독서실에서 정말 고생 많았지. 오늘 하루 어떻게 버텼어? 힘들었던 이야기, 마음 편하게 털어놔도 돼.",
+        "timestamp": 1791355195513,
+        "personaId": "warm_senior"
+      }
+    ],
+    "empathy_counselor": [
+      {
+        "id": "init-empathy_counselor",
+        "role": "assistant",
+        "content": "어서 오세요. 지금 어깨에 들어간 긴장을 살짝 풀고, 깊게 숨을 한번 내쉬어 볼까요? 당신의 마음속 어떤 불안도 이곳에서는 안전합니다.",
+        "timestamp": 1791355195513,
+        "personaId": "empathy_counselor"
+      }
+    ],
+    "study_pacemaker": [
+      {
+        "id": "init-study_pacemaker",
+        "role": "assistant",
+        "content": "반가워. 지나간 시간 자책하느라 스스로를 괴롭히고 있진 않았어? 괜찮아, 리듬은 지금 이 순간부터 다시 맞추면 돼. 지금 상태가 어때?",
+        "timestamp": 1791355195513,
+        "personaId": "study_pacemaker"
+      }
+    ],
+    "cheering_friend": [
+      {
+        "id": "init-cheering_friend",
+        "role": "assistant",
+        "content": "왔어? 오늘 하루도 진짜 고생 많았어. 다른 건 다 제쳐두고, 오늘 밥은 잘 챙겨 먹었어? 따뜻한 핫초코 한 잔 하면서 편하게 수다 떨자.",
+        "timestamp": 1791355195513,
+        "personaId": "cheering_friend"
+      }
+    ]
+  },
+  "moodLogs": [],
+  "stats": {
+    "dissolvedWorriesCount": 0,
+    "breathingSessionsCount": 0,
+    "counselingTurnsCount": 0
+  }
+}

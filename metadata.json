@@ -1,0 +1,8 @@
+{
+  "name": "토닥 (Todak) - N수생 마음 안식처 & 심리 상담소",
+  "description": "끝없는 수험 생활의 불안, 외로움, 자책감을 덜어주는 N수생(재수·삼수·N수) 전문 멘탈 케어 & AI 맞춤 심리 상담 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
